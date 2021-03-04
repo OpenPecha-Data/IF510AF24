@@ -1,16 +1,17 @@
-id: opecha:P000568
+id: P000568
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS19296
   title: ཡང་གསང་རྟ་ཕག་གི་བསྙེན་ཡིག་མཁས་གྲུབ་དུ་མའི་དགོངས་གསལ་ཉི་མའི་འོད་ཟེར།
-  volume:
+  author: ''
+  volumes:
     1270acb55cc34aa4a4cf20958caf82c9:
       image_group_id: I8LS19298
       title: Volume 1 of yang gsang rta phag gi bsnyen yig mkhas grub du ma'i dgongs
         gsal nyi ma'i 'od zer/
       volume_number: 1
       total_pages: 424
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཡང་གསང་རྟ་ཕག་གི་བསྙེན་ཡིག་མཁས་གྲུབ་དུ་མའི་དགོངས་གསལ་ཉི་མའི་འོད་ཟེར།
   author: ''
